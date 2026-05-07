@@ -53,7 +53,7 @@ Built with Python, Pyrogram, and Py-TgCalls, it’s optimized for reliability an
 <h4>🐧 Linux/macOS</h4>
 
 ```bash
-git clone https://github.com/AnonymousX1025/AnonXMusic && cd AnonXMusic
+git clone https://github.com/KiritoxAsuna02/AnonXMusic && cd AnonXMusic
 
 # Install uv
 curl -Ls https://astral.sh/uv/install.sh | sh
